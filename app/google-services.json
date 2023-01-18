@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "1017749899280",
+    "firebase_url": "https://cakebooker-fb6e4-default-rtdb.firebaseio.com",
+    "project_id": "cakebooker-fb6e4",
+    "storage_bucket": "cakebooker-fb6e4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1017749899280:android:d59abfbdd14831d0eba295",
+        "android_client_info": {
+          "package_name": "com.mission.cakebooker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1017749899280-1ofegd7qbig10sq0ib63vfllk4dec5ku.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mission.cakebooker",
+            "certificate_hash": "bbbc36ce0e9cf19b26095158cd09d84debe8ea69"
+          }
+        },
+        {
+          "client_id": "1017749899280-ogkn9i62spcj359p4bgr9kq0c3f2vdn2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mission.cakebooker",
+            "certificate_hash": "c71407ddd54c75ac7c51ad4a5d4c6e00a7a86f39"
+          }
+        },
+        {
+          "client_id": "1017749899280-984qjqrdfkvrhn5877t8mt049qqp7pti.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAorkQHZW2JuHLLBtnEOtBMZZu5q6grr3E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1017749899280-984qjqrdfkvrhn5877t8mt049qqp7pti.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
