@@ -1,5 +1,5 @@
 # BookCakesOnline
-An android application from which you can book cakes in advance online.
+Cake Booking Application with amazing Frontend and smooth user experience. Find best cakes for any event with suitable images and detailed discription. user can book cakes as well.
 
 ### Features
 
